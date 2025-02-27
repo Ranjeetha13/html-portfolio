@@ -1,0 +1,5 @@
+I am a passionate Java Developer and Full-Stack Developer with expertise in building scalable, efficient, and user-friendly applications. With a strong foundation in Java for backend development and proficiency in HTML, CSS, JavaScript, and SQL for frontend and database management, I create seamless and dynamic web solutions.
+
+I enjoy solving complex problems, optimizing performance, and continuously learning new technologies to enhance my skills. Whether it's designing robust backend systems, crafting responsive UI, or managing databases, I strive to deliver high-quality software solutions.
+
+I am always eager to take on new challenges, collaborate with like-minded professionals, and contribute to impactful projects.
